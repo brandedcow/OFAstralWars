@@ -6,7 +6,7 @@
 //
 
 #include "Player.hpp"
-#include "ofApp.h"
+#include "ofApp.hpp"
 
 //--------------------------------------------------------------
 void Player::setup(ofImage * _img, ofPoint _pos){
