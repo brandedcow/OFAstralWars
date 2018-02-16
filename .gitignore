@@ -87,3 +87,23 @@ Desktop.ini
 
 # Android
 .csettings
+
+\.vs/Astral Wars/v15/
+
+*.sln
+
+*.vcxproj
+
+*.db
+
+*.opendb
+
+*.filters
+
+*.rc
+
+*.xcodeproj
+
+/obj
+
+/Debug
